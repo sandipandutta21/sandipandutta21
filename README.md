@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandipan Dutta
-- 👀 I am a Fullstack Python developer, currently working as an Application Engineer at Aamzon India in the Catalog team.  
+- 👀 I am a Fullstack Python developer
 - 🌱 I’m currently learning Golang and Mandalin
 - 💞️ You can read my latest blog posts [here](https://duttasandipan.medium.com/) 
 - 📫 You can reach me [here](https://discord.com/invite/2gy3n3qV7T) and [here](https://www.linkedin.com/in/sandipan-dutta-admin/)
